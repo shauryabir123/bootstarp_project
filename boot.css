@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    
+}
+#a1, #a5{
+background-color:rgb(34, 95, 102) ;
+font-size: 25px;
+opacity: 0.3px;
+}
+#a2, #a6{
+    background-color: aquamarine;
+    font-size: 25px;
+}
+#a3, #a7{
+    background-color: cornflowerblue;
+    font-size: 25px;
+}
+#a4, #a8{
+    background-color: aqua;
+    font-size: 25px;
+}
